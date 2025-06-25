@@ -15,6 +15,7 @@ chroma_store/
 model_offload/
 huggingface/
 .cache/
+hf_cache/
 
 # OS and IDE specific
 .DS_Store
