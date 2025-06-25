@@ -1,0 +1,16 @@
+# Don't upload secrets
+.env
+
+# Python environment
+.venv/
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Vector DB files (optional if very large)
+chroma_store/
+
+# Other OS-specific files
+.DS_Store
+Thumbs.db
