@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Chroma DB store
+/chroma_store/
+
+# Model offloading/cache
+/model_offload/
+/huggingface/
+/.cache/
+
+# OS and IDE specific
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
