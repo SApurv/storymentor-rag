@@ -22,6 +22,8 @@ hf_cache/
 Thumbs.db
 .idea/
 .vscode/data/*
-!data/.gitkeep
-data/*
-!data/.gitkeep
+Data/*
+!Data/.gitkeep
+Streamlit_app.PNG
+Streamlit_final_app.PNG
+
