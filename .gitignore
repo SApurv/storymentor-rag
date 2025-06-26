@@ -21,4 +21,7 @@ hf_cache/
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
+.vscode/data/*
+!data/.gitkeep
+data/*
+!data/.gitkeep
